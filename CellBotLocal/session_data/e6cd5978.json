@@ -1,0 +1,16 @@
+{
+  "id": "e6cd5978",
+  "chat_history": [
+    {
+      "role": "user",
+      "content": "summarize"
+    },
+    {
+      "role": "assistant",
+      "content": "🧠 Got it. Please upload the document to 'research'..."
+    }
+  ],
+  "uploaded_files": [],
+  "active_file_id": null,
+  "topic": "research"
+}
